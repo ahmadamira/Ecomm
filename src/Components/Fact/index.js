@@ -7,8 +7,6 @@ const Factcard = (props) => {
   const { img, title, subtitle, id } = props;
   return (
     <>
-
-
       <Box className={id === 1 ? style.body22 : style.body1}>
 
         <img className={style.cardimg1} src={img}></img>
