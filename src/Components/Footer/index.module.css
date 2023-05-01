@@ -1,0 +1,119 @@
+.body9 {
+
+    left: 0px;
+    background-color: black;
+
+
+    /* Button */
+
+
+}
+
+.title9 {
+
+
+    /* Heading/24PX Bold */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+
+
+
+    /* Text */
+
+    color: #FAFAFA;
+}
+
+.grid9 {
+    text-align: left;
+}
+
+.footerimg9 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.footerimgin9 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.subtitle9 {
+    position: relative;
+    padding-top: 16px;
+
+
+    /* Title/16PX Regular */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    /* Text */
+
+    color: #FAFAFA;
+
+
+    /* Inside auto layout */
+
+
+}
+
+.navup {
+
+
+
+
+
+    /* Button */
+
+    background: #000000;
+    position: relative;
+    margin-top: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 48px;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.navtxt {
+
+    height: 24px;
+
+    /* Title/16PX Regular */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+
+    /* Primary */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

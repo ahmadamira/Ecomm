@@ -1,0 +1,58 @@
+.body3 {
+    height: 161px;
+    width: 270px;
+    margin-bottom: 40px;
+    margin-right: 90px;
+}
+
+.title3 {
+    width: 300px;
+    height: 28px;
+    position: relative;
+    margin-top: 24px;
+
+    /* Title/20PX Semibold */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.subtitle3 {
+    width: 249px;
+    height: 21px;
+    position: relative;
+    margin-top: 8px;
+    /* Title/14PX Regular */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
